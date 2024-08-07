@@ -8,7 +8,7 @@ Esto es un
 comentario
 en varias líneas
 """
-
+print('-' * 30)
 '''
 Este tambien es un 
 comentario
