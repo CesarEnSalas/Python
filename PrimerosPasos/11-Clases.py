@@ -35,5 +35,5 @@ my_other_person.walk()
 my_other_person.full_name = "Héctor de León (El loco de los perros)"
 print(my_other_person.full_name)
 
-my_other_person.full_name = 666
+my_other_person.full_name = 555
 print(my_other_person.full_name)
